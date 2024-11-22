@@ -1,16 +1,14 @@
+import { Container } from './Container/Container.jsx';
+import { Section } from './Section/Section.jsx';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <Section>
+      <Container>
+        <div>
+          <h1>final-project-MobileTeam</h1>
+        </div>
+      </Container>
+    </Section>
   );
 };
