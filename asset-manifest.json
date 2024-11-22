@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/final-project-MobileTeam/static/css/main.8c578970.css",
+    "main.js": "/final-project-MobileTeam/static/js/main.57bcd0ff.js",
+    "index.html": "/final-project-MobileTeam/index.html",
+    "main.8c578970.css.map": "/final-project-MobileTeam/static/css/main.8c578970.css.map",
+    "main.57bcd0ff.js.map": "/final-project-MobileTeam/static/js/main.57bcd0ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c578970.css",
+    "static/js/main.57bcd0ff.js"
+  ]
+}
